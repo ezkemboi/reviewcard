@@ -1,0 +1,57 @@
+/* .container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    padding: 20px;
+    flex-direction: column;
+    text-align: center;
+}
+.container img {
+    width: 40vw;
+    height: 40vw;
+}
+.container button {
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(10, 32, 10);
+    font-weight: bold;
+    font-size: 20px;
+}
+.container h1 {
+    color: rgb(18, 78, 18);
+}
+.container h3 {
+    margin-top: 2px;
+    padding-top: 5px;
+} */
+.container {
+    display: flex;
+    height: 200vh;
+    width: 50wh;
+    padding: 20px;
+    color: white;
+    flex-direction: row-reverse;
+}
+
+.head {
+    width: 60vw;
+    color: black;
+    text-align: start;
+    justify-content: center;
+}
+
+.head h1 {
+    color: rgb(13, 59, 13);
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+.head button {
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(10, 32, 10);
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
